@@ -135,6 +135,10 @@ docker run -d \
 
 助手需要支持工具调用的模型。本地模型服务需使用容器可访问的地址；未配置 AI 时，其余媒体管理功能仍可正常使用。
 
+## 一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Kaloscope/)
+
 ## MCP 接入
 
 在「个人设置 → 访问令牌」创建令牌，将以下信息填入支持 Streamable HTTP 与 Bearer 认证的 MCP 客户端：
